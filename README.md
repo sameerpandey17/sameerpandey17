@@ -1,4 +1,4 @@
-# Hi, I'm Sameer 👋
+# Hi, I'm Sameer 
 > AI & Data Science student · Full-stack builder · I ship things that work
 
 ---
@@ -19,7 +19,7 @@ I build with Python, FastAPI, and React. I care about real users, real problems,
 
 ## Featured project
 
-### 🍱 [CaloRupee](https://calorupee.me) — AI Budget Meal Planner
+###  [CaloRupee](https://calorupee.me) — AI Budget Meal Planner
 
 Full-stack AI app that generates personalised 4-meal day plans within a fixed rupee budget and calorie/protein targets. Built solo, deployed to production.
 
@@ -31,10 +31,10 @@ Full-stack AI app that generates personalised 4-meal day plans within a fixed ru
 
 ## Other builds & achievements
 
-### 🤖 Meal RL Agent — OpenAI Gym
+###  Meal RL Agent — OpenAI Gym
 Built a Reinforcement Learning agent to solve meal optimisation when free AI models weren't smart enough. Defined the reward function, trained and tested end-to-end.
 
-### 🏆 Canteen Queue-Skip App — Hackathon Winner (1st place)
+###  Canteen Queue-Skip App — Hackathon Winner (1st place)
 Won 1st place by building a pre-order system that lets students skip the lunch queue. Delivered the full solution within hackathon time constraints.
 
 ---
