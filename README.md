@@ -5,7 +5,7 @@
 
 ## About me
 
-I'm a first-year B.E. student in AI & Data Science at Dr. D. Y. Patil Institute of Technology, Pune — and I've already built and deployed a production full-stack AI app independently.
+I'm a second-year B.E. student in AI & Data Science at Dr. D. Y. Patil Institute of Technology, Pune — and I've already built and deployed a production full-stack AI app independently.
 
 I build with Python, FastAPI, and React. I care about real users, real problems, and code that actually runs in production — not just demos.
 
