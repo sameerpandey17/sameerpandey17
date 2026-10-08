@@ -46,7 +46,7 @@ Reinforcement learning environment for sequential meal planning under nutritiona
 
 ### Find Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-calorupee.me-111111?style=flat-square\&logo=vercel\&logoColor=white)](https://www.calorupee.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-calorupee.me-111111?style=flat-square\&logo=vercel\&logoColor=white)](https://sameerpandeyportfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sameer%20Pandey-111111?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
 [![X](https://img.shields.io/badge/X-@strangesam17-111111?style=flat-square\&logo=x\&logoColor=white)](https://x.com/strangesam17)
 [![Email](https://img.shields.io/badge/Email-Contact-111111?style=flat-square\&logo=gmail\&logoColor=white)](mailto:sameerpandey17nov@gmail.com)
