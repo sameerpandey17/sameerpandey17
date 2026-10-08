@@ -24,7 +24,7 @@ Currently exploring backend architecture, distributed systems, and open-source d
 **[VisionLink](https://github.com/sameerpandey17/VisionLink)**
 Real-time emotion detection system using FastAPI, WebSockets, Redis Pub/Sub, PostgreSQL and Docker.
 
-**[AIVOA](https://github.com/sameerpandey17)**
+**[AIVOA](https://github.com/sameerpandey17/deviation-bot)**
 AI-powered workflow for pharmaceutical deviation intake using FastAPI, LangGraph, Pydantic and PostgreSQL.
 
 **[CaloRupee](https://github.com/sameerpandey17/CaloRupee)**
