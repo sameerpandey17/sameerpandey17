@@ -1,47 +1,58 @@
-# Hi, I'm Sameer 
-> AI & Data Science student · Full-stack builder · I ship things that work
+# Sameer Pandey
+
+### `AI & Data Science Student · Backend + AI`
+
+I build backend systems and AI-powered applications with a focus on **Python, APIs, databases, and practical AI integrations.**
+
+Currently exploring backend architecture, distributed systems, and open-source development.
 
 ---
 
-## About me
+### Tech I Use
 
-I'm a second-year B.E. student in AI & Data Science at Dr. D. Y. Patil Institute of Technology, Pune — and I've already built and deployed a production full-stack AI app independently.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,react,postgres,redis,docker,git" />
+</p>
 
-I build with Python, FastAPI, and React. I care about real users, real problems, and code that actually runs in production — not just demos.
-
----
-
-## Tech stack
-
-`Python` `FastAPI` `React` `TypeScript` `PostgreSQL` `AI API integration` `Reinforcement Learning` `Prompt engineering` `Git` `Vercel`
+**Core:** Python · FastAPI · PostgreSQL · Redis · Docker
+**AI:** LangGraph · LLM APIs · MediaPipe
 
 ---
 
-## Featured project
+### Selected Projects
 
-###  [CaloRupee](https://calorupee.me) — AI Budget Meal Planner
+**[VisionLink](https://github.com/sameerpandey17/VisionLink)**
+Real-time emotion detection system using FastAPI, WebSockets, Redis Pub/Sub, PostgreSQL and Docker.
 
-Full-stack AI app that generates personalised 4-meal day plans within a fixed rupee budget and calorie/protein targets. Built solo, deployed to production.
+**[AIVOA](https://github.com/sameerpandey17)**
+AI-powered workflow for pharmaceutical deviation intake using FastAPI, LangGraph, Pydantic and PostgreSQL.
 
-**Stack:** Python · FastAPI · React · TypeScript · PostgreSQL  
-**Key feature:** dual-model AI failover — app stays live even when one provider goes down.  
-🔗 **[calorupee.me](https://calorupee.me)**
+**[CaloRupee](https://github.com/sameerpandey17/CaloRupee)**
+AI budget meal planner that generates nutrition- and budget-constrained meal plans.
 
----
-
-## Other builds & achievements
-
-###  Meal RL Agent — OpenAI Gym
-Built a Reinforcement Learning agent to solve meal optimisation when free AI models weren't smart enough. Defined the reward function, trained and tested end-to-end.
-
-###  Canteen Queue-Skip App — Hackathon Winner (1st place)
-Won 1st place by building a pre-order system that lets students skip the lunch queue. Delivered the full solution within hackathon time constraints.
+**[NutriSync](https://github.com/sameerpandey17/nutrisync-openenv)**
+Reinforcement learning environment for sequential meal planning under nutritional and budget constraints.
 
 ---
 
-## Find me
+### What I'm Working On
 
-🌐 [calorupee.me](https://calorupee.me) — live product  
-🐦 [@strangesam17](https://x.com/strangesam17) on X — I post what I'm building  
-💼 [linkedin.com/in/sameer-pandey17](https://linkedin.com/in/sameer-pandey17)  
-📬 sameerpandey17nov@gmail.com
+* Building stronger backend systems with Python & FastAPI
+* Learning distributed systems and system design
+* Contributing to open-source projects
+* Building and shipping AI-powered products
+
+---
+
+### Find Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-calorupee.me-111111?style=flat-square\&logo=vercel\&logoColor=white)](https://www.calorupee.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sameer%20Pandey-111111?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+[![X](https://img.shields.io/badge/X-@strangesam17-111111?style=flat-square\&logo=x\&logoColor=white)](https://x.com/strangesam17)
+[![Email](https://img.shields.io/badge/Email-Contact-111111?style=flat-square\&logo=gmail\&logoColor=white)](mailto:sameerpandey17nov@gmail.com)
+
+---
+
+<p align="center">
+  <sub>Build → Break → Learn → Ship</sub>
+</p>
