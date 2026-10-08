@@ -44,15 +44,6 @@ Reinforcement learning environment for sequential meal planning under nutritiona
 
 ---
 
-### Find Me
-
-[![Portfolio](https://img.shields.io/badge/style=flat-square\&logo=vercel\&logoColor=white)](https://sameerpandeyportfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
-[![X](https://img.shields.io/badge/style=flat-square\&logo=x\&logoColor=white)](https://x.com/strangesam17)
-[![Email](https://img.shields.io/badge/style=flat-square\&logo=gmail\&logoColor=white)](mailto:sameerpandey17nov@gmail.com)
-
----
-
 <p align="center">
   <sub>Build → Break → Learn → Ship</sub>
 </p>
